@@ -1,5 +1,5 @@
-![ClearML Logo](logo.svg#light-mode-only)
-![ClearML Logo](logo--on-light.svg#dark-mode-only)
+![ClearML Logo](logo.svg#gh-light-mode-only)
+![ClearML Logo](logo--on-light.svg#gh-dark-mode-only)
 
 # The Infrastructure Platform for AI Builders
 
