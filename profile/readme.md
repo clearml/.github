@@ -1,7 +1,7 @@
 
-<div align="center" style="text-align: center">
+<div align="center">
 
-<p style="text-align: center">
+<p>
   <img align="center" src="logo/clearml-logo.svg#gh-light-mode-only" alt="Clear|ML">
   <img align="center" src="logo/clearml-logo-dark.svg#gh-dark-mode-only" alt="Clear|ML">
 </p>
