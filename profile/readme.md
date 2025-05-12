@@ -6,7 +6,7 @@
   <img align="center" src="logo/clearml-logo-dark.svg#gh-dark-mode-only" alt="Clear|ML">
 </p>
 
-**The Infrastructure Platform for AI Builders**
+# The Infrastructure Platform for AI Builders 
 
 </div>
 
@@ -15,9 +15,7 @@ deployment.
 
 ## Platform Capabilities
 
-<style>.tbl {background: red} </style>
-
-<table class="tbl">
+<table>
     <tbody>
         <tr>
             <td><b>Infrastructure Control Plane</b><br>Seamlessly manage and provision GPU resources across cloud, on-prem, and hybrid setups with multi-tenancy, billing, quotas, and secure isolation</td>
