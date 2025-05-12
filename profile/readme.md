@@ -1,5 +1,7 @@
-<img align="center" src="logo/clearml-logo.svg#gh-light-mode-only" alt="Clear|ML">
-<img align="center" src="logo/clearml-logo-dark.svg#gh-dark-mode-only" alt="Clear|ML">
+<p style="text-align: center">
+  <img align="center" src="logo/clearml-logo.svg#gh-light-mode-only" alt="Clear|ML">
+  <img align="center" src="logo/clearml-logo-dark.svg#gh-dark-mode-only" alt="Clear|ML">
+</p>
 
 # The Infrastructure Platform for AI Builders
 
@@ -8,15 +10,23 @@ deployment.
 
 ## Platform Capabilities
 
-<img style="width:50px" align="right" src="logo/clearml-logo.svg#gh-light-mode-only" alt="Clear|ML">
-<img style="width:50px" align="right" src="logo/clearml-logo-dark.svg#gh-dark-mode-only" alt="Clear|ML">
-
-* Infrastructure Control Plane – Seamlessly manage and provision GPU resources across cloud, on-prem, and hybrid setups 
-with multi-tenancy, billing, quotas, and secure isolation
-* AI Development Center – A cloud-like IDE for AI builders with one-click access to tools for data integration, monitoring, 
-model tracking, CI/CD, and experiment automation
-* GenAI App Engine – Rapidly deploy LLMs and GenAI workloads with built-in access control, vector database support, and 
-feedback loops for continuous improvement
+<table style="border: none; background: transparent;">
+    <tbody>
+        <tr style="border: none; background: transparent;">
+            <td style="border: none; background: transparent;"><b>Infrastructure Control Plane</b><br>Seamlessly manage and provision GPU resources across cloud, on-prem, and hybrid setups with multi-tenancy, billing, quotas, and secure isolation</td>
+            <td rowspan="3" width="300px" style="border: none; background: transparent; padding-left: 32px;">
+                <img src="logo/pyramid-with-labels.png#gh-light-mode-only" alt="fig" />
+                <img src="logo/pyramid-with-labels-dark.png#gh-dark-mode-only" alt="fig" />
+            </td>
+        </tr>
+        <tr style="border: none; background: transparent;">
+            <td style="border: none; background: transparent;"><b>AI Development Center</b><br>A cloud-like IDE for AI builders with one-click access to tools for data integration, monitoring, model tracking, CI/CD, and experiment automation</td>
+        </tr>
+        <tr style="border: none; background: transparent;">
+            <td style="border: none; background: transparent;"><b>GenAI App Engine</b><br> Rapidly deploy LLMs and GenAI workloads with built-in access control, vector database support, and feedback loops for continuous improvement</td>
+        </tr>
+    </tbody>
+</table>
 
 
 
