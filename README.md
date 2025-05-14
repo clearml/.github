@@ -1,2 +1,2 @@
-# .github-private
-Sandbox for org readme
+# .github
+org readme
