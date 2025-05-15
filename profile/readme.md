@@ -20,8 +20,10 @@ deployment.
 
 * **Infrastructure Control Plane** – Seamlessly manage and provision GPU resources across cloud, on-prem, and hybrid setups 
 with multi-tenancy, billing, quotas, and secure isolation
+  
 * **AI Development Center** – An AI builder`s IDE with one-click access to tools for data integration, monitoring, 
 model tracking, CI/CD, and experiment automation
+  
 * **GenAI App Engine** – Rapidly deploy LLMs and GenAI workloads with built-in access control, vector database support, and 
 feedback loops for continuous improvement
 
