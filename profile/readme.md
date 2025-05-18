@@ -10,7 +10,7 @@
 
 </div>
 
-ClearML is a full-stack, open, AI development platform designed to streamline everything from infrastructure management to GenAI 
+ClearML is a full-stack, open source AI platform designed to streamline everything from infrastructure management to GenAI 
 deployment. 
 
 ## Platform Capabilities
@@ -31,15 +31,15 @@ feedback loops for continuous improvement
 
 * [clearml](https://github.com/clearml/clearml) – Python SDK and CLI for ML tracking, data management, and workflow automation
 * [clearml-server](https://github.com/clearml/clearml-server) – Backend services and APIs
-* [clearml-agent](https://github.com/clearml/clearml-agent) – Workload execution agent for orchestration and automation.
-* [clearml-web](https://github.com/clearml/clearml-web) – Web based GUI for the ClearML server
+* [clearml-agent](https://github.com/clearml/clearml-agent) – Workload execution agent for orchestration and automation
+* [clearml-web](https://github.com/clearml/clearml-web) – Web-based GUI for the ClearML server
 * [clearml-session](https://github.com/clearml/clearml-session) - CLI for launching JupyterLab / VSCode / SSH workloads on Cloud/On-Prem remote machines
 * [clearml-serving](https://github.com/clearml/clearml-serving) – Framework for model deployment and orchestration
 * [clearml-docs](https://github.com/clearml/clearml-docs) – Source for ClearML’s official documentation
 
 ## Contributing
 
-PRs are always welcome ❤️ See more details in the ClearML [Guidelines for Contributing](https://github.com/clearml/clearml/blob/master/docs/contributing.md).
+PRs are always welcome ❤️. See more details in the ClearML [Guidelines for Contributing](https://github.com/clearml/clearml/blob/master/docs/contributing.md).
 
 ## Want to Learn More?
 
@@ -49,4 +49,4 @@ PRs are always welcome ❤️ See more details in the ClearML [Guidelines for Co
 * User and Developer Community:
   * Join the ClearML conversation in [Slack](https://joinslack.clear.ml)
   * Ask questions on Stack Overflow using the [clearml](https://stackoverflow.com/questions/tagged/clearml) tag
-* Contact Us: Reach out anytime at info@clear.ml
+* Contact Us: Reach out anytime at [info@clear.ml](mailto:info@clear.ml)
